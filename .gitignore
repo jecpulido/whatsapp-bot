@@ -146,3 +146,6 @@ session.json
 .env
 
 # End of https://www.toptal.com/developers/gitignore/api/node,visualstudiocode
+.wwebjs_auth
+
+daemon
