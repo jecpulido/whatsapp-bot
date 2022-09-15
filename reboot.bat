@@ -1,0 +1,1 @@
+cmd /c net stop "Chat-Bot" & net start "Chat-Bot"
